@@ -397,7 +397,7 @@ const experienceContent = {
 
 const experiences: LocalizedExperience[] = [
   {
-    company: 'WanSing Technology / 9dimensions, Inc.',
+    company: '萬星科技 / 9dimensions, Inc.',
     role: {
       en: 'Unity Lead & Backend Engineer',
       'zh-Hant': 'Unity 組長/Backend 工程師'
@@ -408,7 +408,7 @@ const experiences: LocalizedExperience[] = [
     },
     note: {
       en: 'Engineering team transferred to WanSing Technology in Nov 2024 after an organizational merger.',
-      'zh-Hant': '2024/11 因組織整併，全體工程團隊轉任至萬星科技。'
+      'zh-Hant': '2024/11 因組織整併，全體工程團隊由「9dimensions」轉任至「萬星科技」。'
     },
     summary: {
       en: 'Backend services, Unity SDK development, internal tools, and technical planning for a Texas Hold’em mobile game.',
@@ -482,7 +482,7 @@ const experiences: LocalizedExperience[] = [
     }
   },
   {
-    company: 'ChuangYiRen Digital Technology / Blockast',
+    company: '創弈人數位科技股份有限公司 / 布洛卡斯股份有限公司',
     role: {
       en: 'Chief Information Officer',
       'zh-Hant': '資訊長'
@@ -493,7 +493,7 @@ const experiences: LocalizedExperience[] = [
     },
     note: {
       en: 'Team moved from Blockast to ChuangYiRen Digital Technology in Dec 2021.',
-      'zh-Hant': '2021/12 團隊由 Blockast 轉至創弈人數位科技。'
+      'zh-Hant': '2021/12 團隊由「布洛卡斯」轉至「創弈人數位科技」。'
     },
     summary: {
       en: 'Expanded from Android development into broader technical leadership across messaging, BLE, libraries, payments, Firebase, chat, Flutter, and game work.',
@@ -540,7 +540,7 @@ const experiences: LocalizedExperience[] = [
     }
   },
   {
-    company: 'PAPAGO! Group / Maction Technologies',
+    company: '研勤科技股份有限公司 / 研鼎崧圖股份有限公司',
     role: {
       en: 'Software Engineer / Assistant Technical Manager',
       'zh-Hant': '軟體工程師/技術副理'
@@ -551,7 +551,7 @@ const experiences: LocalizedExperience[] = [
     },
     note: {
       en: 'Transferred internally to subsidiary Maction Technologies in Feb 2012.',
-      'zh-Hant': '2012/02 內部轉調至子公司研鼎崧圖。'
+      'zh-Hant': '2012/02 從「研勤科技」內部轉調至子公司「研鼎崧圖」。'
     },
     summary: {
       en: 'Worked on navigation products across Android, Windows Phone, PND, and OBU platforms.',
