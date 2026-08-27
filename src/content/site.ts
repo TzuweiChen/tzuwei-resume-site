@@ -260,8 +260,8 @@ const projects: LocalizedProject[] = [
       'zh-Hant': 'Unity 組長/Backend 工程師'
     },
     period: {
-      en: '2023 - Present',
-      'zh-Hant': '2023 - 至今'
+      en: '2022 - 2026',
+      'zh-Hant': '2022 - 2026'
     },
     summary: {
       en: 'Own backend development, Unity SDK maintenance, tooling, and technical planning for a live mobile game.',
@@ -328,8 +328,8 @@ const projects: LocalizedProject[] = [
       'zh-Hant': '合作夥伴'
     },
     period: {
-      en: '2018 - Present',
-      'zh-Hant': '2018 - 至今'
+      en: '2018 - 2026',
+      'zh-Hant': '2018 - 2026'
     },
     summary: {
       en: 'Supported Android and Flutter clients across SDK maintenance, BLE, IoT, media, and custom product requirements.',
@@ -403,8 +403,8 @@ const experiences: LocalizedExperience[] = [
       'zh-Hant': 'Unity 組長/Backend 工程師'
     },
     period: {
-      en: 'Jun 2023 - Present',
-      'zh-Hant': '2023/06 - 至今'
+      en: '2022 - 2026',
+      'zh-Hant': '2022 - 2026'
     },
     note: {
       en: 'Engineering team transferred to WanSing Technology in Nov 2024 after an organizational merger.',
@@ -519,8 +519,8 @@ const experiences: LocalizedExperience[] = [
       'zh-Hant': '合作夥伴'
     },
     period: {
-      en: 'Jul 2018 - Present',
-      'zh-Hant': '2018/07 - 至今'
+      en: '2018 - 2026',
+      'zh-Hant': '2018 - 2026'
     },
     summary: {
       en: 'Long-term partner for Android and Flutter client projects spanning SDK, BLE, IoT, media, e-commerce, ticketing, and streaming.',

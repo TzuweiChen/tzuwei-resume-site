@@ -10,7 +10,7 @@ export type Experience = {
 
 export const experiences: Experience[] = [
   {
-    period: 'Jun 2023 - Present',
+    period: '2022 - 2026',
     company: 'WanSing Technology / 9dimensions, Inc.',
     role: 'Unity Lead & Backend Engineer',
     note: 'The engineering team was transferred to WanSing Technology in Nov 2024 following an organizational merger.',
@@ -67,7 +67,7 @@ export const experiences: Experience[] = [
     ]
   },
   {
-    period: 'Jul 2018 - Present',
+    period: '2018 - 2026',
     company: 'FUNTEK',
     role: 'Partner',
     summary:
