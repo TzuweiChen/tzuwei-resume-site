@@ -260,8 +260,8 @@ const projects: LocalizedProject[] = [
       'zh-Hant': 'Unity 組長/Backend 工程師'
     },
     period: {
-      en: '2022 - 2026',
-      'zh-Hant': '2022 - 2026'
+      en: '2023 - 2026',
+      'zh-Hant': '2023 - 2026'
     },
     summary: {
       en: 'Own backend development, Unity SDK maintenance, tooling, and technical planning for a live mobile game.',
@@ -403,8 +403,8 @@ const experiences: LocalizedExperience[] = [
       'zh-Hant': 'Unity 組長/Backend 工程師'
     },
     period: {
-      en: '2022 - 2026',
-      'zh-Hant': '2022 - 2026'
+      en: '2023 - 2026',
+      'zh-Hant': '2023 - 2026'
     },
     note: {
       en: 'Engineering team transferred to WanSing Technology in Nov 2024 after an organizational merger.',
